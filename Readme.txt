@@ -1,0 +1,1 @@
+Run the code cell in the dinoscraping and it will ask you how many school names you want to process. theres 469 in total in the list_data that ive collected so far to test. it will read through that excel and find websites emails and phone numbers. you have to let it finish running the total amount you ran on because i didnt add pause functionality.
